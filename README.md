@@ -1,3 +1,1 @@
-# AndroidGame-TicTacToe
-# AndroidGameTicTacToe
 # AndroidTicTacToe
